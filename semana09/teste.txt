@@ -1,5 +1,4 @@
-beti
-bala
-ceu
+amarelo
 laranja
-guine
+verde
+
