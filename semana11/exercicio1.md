@@ -44,8 +44,6 @@
  Alguns bancos de dados NoSQL têm estratégias diferentes para otimizar consultas, como indexação secundária em bancos de dados de documentos.
 
 
-
-
  ## Consulta (Query):
 
  Uma consulta é uma instrução que você usa para buscar ou manipular dados em um banco de dados.
@@ -77,7 +75,3 @@
  Transações garantem a consistência dos dados ao agrupar operações relacionadas e garantir que elas sejam executadas com sucesso ou revertidas em caso de falha.
  
  A cópia de segurança é uma medida de precaução para proteger os dados em caso de perda ou corrupção, permitindo sua recuperação em situações adversas.
-
-
-
-
